@@ -1,4 +1,4 @@
-public class Hdfc extends Loan {
+public class sbh extends Loan {
 
     public  static final double roi = 10;
 
